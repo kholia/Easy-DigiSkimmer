@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+*.png
+*.wav
+.vscode*
+log/
+*~
+tmp/
+/settings.py*
+/*.json
